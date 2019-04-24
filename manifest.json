@@ -29,6 +29,12 @@
         }
       }
     },
+     "game_targeting": {
+        "type": "dedicated",
+        "game_ids": [
+          6365
+        ]
+      },
     "game_events": [6365],
     "launch_events": [
       {
